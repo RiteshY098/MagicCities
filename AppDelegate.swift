@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MagicCities
 //
-//  Created by Natasha Shinde on 22/02/24.
+//  Created by Ritesh Yadav on 22/02/24.
 //
 
 import UIKit
